@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="143325" started-at="2022-12-04T16:57:24 GMT" finished-at="2022-12-04T16:59:47 GMT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="143325" started-at="2022-12-04T16:57:24 GMT" finished-at="2022-12-04T16:59:47 GMT">
+      <class name="com.tutorialsninja.testsuite.TopMenuTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="setUp" is-config="true" duration-ms="5102" started-at="2022-12-04T16:59:27 GMT" finished-at="2022-12-04T16:59:32 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" duration-ms="772" started-at="2022-12-04T16:59:32 GMT" finished-at="2022-12-04T16:59:33 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComponentsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="tearDown" is-config="true" duration-ms="748" started-at="2022-12-04T16:59:33 GMT" finished-at="2022-12-04T16:59:33 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="setUp" is-config="true" duration-ms="4696" started-at="2022-12-04T16:59:33 GMT" finished-at="2022-12-04T16:59:38 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" duration-ms="1963" started-at="2022-12-04T16:59:38 GMT" finished-at="2022-12-04T16:59:40 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToDesktopsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="tearDown" is-config="true" duration-ms="736" started-at="2022-12-04T16:59:40 GMT" finished-at="2022-12-04T16:59:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="setUp" is-config="true" duration-ms="4575" started-at="2022-12-04T16:59:41 GMT" finished-at="2022-12-04T16:59:45 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" duration-ms="915" started-at="2022-12-04T16:59:45 GMT" finished-at="2022-12-04T16:59:46 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuTest@612679d6]" name="tearDown" is-config="true" duration-ms="803" started-at="2022-12-04T16:59:46 GMT" finished-at="2022-12-04T16:59:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.TopMenuTest -->
+      <class name="com.tutorialsninja.testsuite.AccountLoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="setUp" is-config="true" duration-ms="7434" started-at="2022-12-04T16:57:24 GMT" finished-at="2022-12-04T16:57:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" duration-ms="2453" started-at="2022-12-04T16:57:31 GMT" finished-at="2022-12-04T16:57:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserShouldLoginAndLogoutSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="tearDown" is-config="true" duration-ms="731" started-at="2022-12-04T16:57:34 GMT" finished-at="2022-12-04T16:57:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="setUp" is-config="true" duration-ms="5064" started-at="2022-12-04T16:57:34 GMT" finished-at="2022-12-04T16:57:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="1639" started-at="2022-12-04T16:57:39 GMT" finished-at="2022-12-04T16:57:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.AccountLoginPageTest@4eb7f003]" name="tearDown" is-config="true" duration-ms="724" started-at="2022-12-04T16:57:41 GMT" finished-at="2022-12-04T16:57:42 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.AccountLoginPageTest -->
+      <class name="com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="setUp" is-config="true" duration-ms="4507" started-at="2022-12-04T16:59:05 GMT" finished-at="2022-12-04T16:59:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="verifyProductsPriceDisplayHighToLowSuccessfully" duration-ms="4327" started-at="2022-12-04T16:59:10 GMT" finished-at="2022-12-04T16:59:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPriceDisplayHighToLowSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="tearDown" is-config="true" duration-ms="749" started-at="2022-12-04T16:59:14 GMT" finished-at="2022-12-04T16:59:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="setUp" is-config="true" duration-ms="4582" started-at="2022-12-04T16:59:15 GMT" finished-at="2022-12-04T16:59:20 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="verifyThatUserPlaceOrderSuccessfully" duration-ms="6412" started-at="2022-12-04T16:59:20 GMT" finished-at="2022-12-04T16:59:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest@1060b431]" name="tearDown" is-config="true" duration-ms="741" started-at="2022-12-04T16:59:26 GMT" finished-at="2022-12-04T16:59:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.LaptopsAndNotebooksPageTest -->
+      <class name="com.tutorialsninja.testsuite.AccountRegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="setUp" is-config="true" duration-ms="4774" started-at="2022-12-04T16:57:42 GMT" finished-at="2022-12-04T16:57:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThatUserShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="verifyThatUserShouldLoginAndLogoutSuccessfully" duration-ms="24284" started-at="2022-12-04T16:57:47 GMT" finished-at="2022-12-04T16:58:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserShouldLoginAndLogoutSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="tearDown" is-config="true" duration-ms="777" started-at="2022-12-04T16:58:11 GMT" finished-at="2022-12-04T16:58:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="setUp" is-config="true" duration-ms="3881" started-at="2022-12-04T16:58:12 GMT" finished-at="2022-12-04T16:58:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="20966" started-at="2022-12-04T16:58:16 GMT" finished-at="2022-12-04T16:58:37 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.AccountRegisterPageTest@eafc191]" name="tearDown" is-config="true" duration-ms="690" started-at="2022-12-04T16:58:37 GMT" finished-at="2022-12-04T16:58:37 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.AccountRegisterPageTest -->
+      <class name="com.tutorialsninja.testsuite.DesktopsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="3861" started-at="2022-12-04T16:58:37 GMT" finished-at="2022-12-04T16:58:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="14637" started-at="2022-12-04T16:58:41 GMT" finished-at="2022-12-04T16:58:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="723" started-at="2022-12-04T16:58:56 GMT" finished-at="2022-12-04T16:58:56 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="setUp" is-config="true" duration-ms="4646" started-at="2022-12-04T16:58:56 GMT" finished-at="2022-12-04T16:59:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductArrangeInAlphabeticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="verifyProductArrangeInAlphabeticalOrder" duration-ms="3607" started-at="2022-12-04T16:59:01 GMT" finished-at="2022-12-04T16:59:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphabeticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@612fc6eb]" name="tearDown" is-config="true" duration-ms="751" started-at="2022-12-04T16:59:05 GMT" finished-at="2022-12-04T16:59:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.DesktopsPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
